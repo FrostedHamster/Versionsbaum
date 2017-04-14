@@ -1,0 +1,16 @@
+2) 	*	b89b64f(HEAD -> master,.....)
+	*	6570caa conflicts resolved
+	|\
+	| *	3d29f8d (bist-du-wissbegierig)...
+	*  |	1367ebc	(hast-du-fachabitur)...
+	| /
+	*	32101d9 (tag: hast-du-abitur)...
+	*	2c48c25...
+	*	4590665
+	*
+	*	
+	*
+	*
+	*	
+	*
+	*
